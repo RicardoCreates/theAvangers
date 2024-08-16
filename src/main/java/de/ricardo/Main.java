@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello Avangers2");
         System.out.println("Hello avengers!");
         System.out.println("Blödsinn");
+        System.out.println("Hello avengers from neue fische!");
     }
 }
