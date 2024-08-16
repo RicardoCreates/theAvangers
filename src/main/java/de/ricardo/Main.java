@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Hello Avangers");
         System.out.println("Hello Avangers");
         System.out.println("I am a Avangers");
-        System.out.println("Hi");
+        System.out.println("Hallo");
     }
 }
